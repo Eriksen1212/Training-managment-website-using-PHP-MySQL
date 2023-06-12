@@ -20,8 +20,8 @@
         }
     </style>
     <div class='container'>
-        <p align="center"><img src="images/banner.PNG" width="100%"></p>
-        <h1>K-Mall</h1>
-        <p>전세계 250여개국의 상품 중 최고의 제품을 선정하여 적절한 가격에 제공하는 신개념 소셜 커머스입니다.</br><b>바로 오늘 시작하세요!</b></p>
-        <p class="ref">본 사이트에서 사용된 리소스는 학술적 용도로만 사용되었으며, 상업적 사용은 제한됩니다. 
+        <p align="center"><img src="https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-mobile/f_auto/mls-phi-prd/h3wlazbhhhpwq7pknjtc.jpg" width="100%"></p>
+        <h1>Korea FC</h1>
+        <p>세계 최고의 축구팀, Korea FC에 온 걸 환영합니다!</br><b>당장 우리의 서포터가 되세요!</b></p>
+        <p class="ref">본 사이트는 선수와 코치 간의 피드백을 중심으로 다룹니다. 
 <? include ("footer.php"); ?>
