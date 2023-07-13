@@ -20,4 +20,5 @@ Back End - MySQL, javascript
 
 
 -DB 스키마
+DB-schema
 
