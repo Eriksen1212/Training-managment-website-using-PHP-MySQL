@@ -18,3 +18,6 @@ Back End - MySQL, javascript
 ![image](https://github.com/Eriksen1212/db-php-managment-website/assets/112687286/cb5bf9ad-5995-4c1f-a2ef-fd24d2280262)
 
 
+
+-DB 스키마
+
