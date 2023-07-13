@@ -18,11 +18,18 @@ Back End - MySQL, javascript
 ![image](https://github.com/Eriksen1212/db-php-managment-website/assets/112687286/cb5bf9ad-5995-4c1f-a2ef-fd24d2280262)
 
 
+-프로세스 명세서
 
-[DB 스키마-MySQL](https://github.com/Eriksen1212/db-php-managment-website/tree/main/db_schema)
+
+![image](https://github.com/Eriksen1212/db-php-managment-website/assets/112687286/0be7e3c5-7df3-4676-bb78-87f80c307396)
 
 
-소스코드 설명서
+
+
+💡[DB 스키마-MySQL](https://github.com/Eriksen1212/db-php-managment-website/tree/main/db_schema)
+
+
+-소스코드 설명서
 
 
 
