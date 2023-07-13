@@ -19,5 +19,5 @@ Back End - MySQL, javascript
 
 
 
-[DB 스키마](https://github.com/Eriksen1212/db-php-managment-website/tree/main/db_schema)
+[DB 스키마-MySQL](https://github.com/Eriksen1212/db-php-managment-website/tree/main/db_schema)
 
