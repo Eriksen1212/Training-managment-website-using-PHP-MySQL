@@ -3,5 +3,42 @@ DB 스키마
 CREATE TABLE player ( 
   player_id int PRIMARY KEY, 
   player_name varchar(20), 
-  birthdate date, position varchar(20) ) engine=InnoDB;
+  birthdate date, position varchar(20) 
+) engine=InnoDB;
 
+
+CREATE TABLE coach ( 
+  coach_id int PRIMARY KEY, 
+  coach_name varchar(20), 
+  birthdate date 
+) engine=InnoDB;
+
+
+CREATE TABLE ground ( 
+  ground_id int PRIMARY KEY, 
+  ground_name varchar(20) 
+) engine=InnoDB;
+
+
+CREATE TABLE training_schedule ( 
+  training_schedule_id int, 
+  player_id int, 
+  training_content varchar(20), 
+  training_date date, 
+  ground_id int, 
+  PRIMARY KEY (training_schedule_id, player_id, ground_id), 
+  FOREIGN KEY (player_id) REFERENCES player(player_id), 
+  FOREIGN KEY (ground_id) REFERENCES ground(ground_id) 
+) engine=InnoDB;
+
+
+CREATE TABLE feedback (
+    feedback_id int NOT NULL AUTO_INCREMENT,
+    player_id int,
+    coach_id int,
+    feedback_content varchar(20),
+    feedback_date date,
+    PRIMARY KEY (feedback_id),
+    FOREIGN KEY (player_id) REFERENCES player(player_id),
+    FOREIGN KEY (coach_id) REFERENCES coach(coach_id)
+)engine=InnoDB;
