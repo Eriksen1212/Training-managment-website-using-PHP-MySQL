@@ -10,3 +10,8 @@ Front End - PHP, CSS
 Back End - MySQL, javascript
 
 ✏ 기획 & 설계
+
+-DB 설계(ER Diagram)
+![image](https://github.com/Eriksen1212/db-php-managment-website/assets/112687286/cb5bf9ad-5995-4c1f-a2ef-fd24d2280262)
+
+
