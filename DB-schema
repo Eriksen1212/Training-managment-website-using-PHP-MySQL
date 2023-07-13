@@ -1,5 +1,7 @@
 DB 스키마 
 
+
+```sql
 CREATE TABLE player ( 
   player_id int PRIMARY KEY, 
   player_name varchar(20), 
