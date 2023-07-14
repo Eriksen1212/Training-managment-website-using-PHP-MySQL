@@ -1,4 +1,4 @@
-# trainee-management
+# Trainee Management System
 
 👨‍👨‍👧 trainee들의 훈련 일정을 관리하는 웹사이트
 
@@ -7,7 +7,7 @@
 
 Front End - PHP, CSS
 
-Back End - MySQL, javascript
+Back End - MySQL
 
 ✏ 기획 & 설계
 
