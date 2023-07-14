@@ -1,4 +1,4 @@
-# Trainee Management System
+# Training Management System
 
 👨‍👨‍👧 trainee들의 훈련 일정을 관리하는 웹사이트
 
