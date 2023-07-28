@@ -36,5 +36,10 @@ Back End - MySQL
 ![image](https://github.com/Eriksen1212/db-php-managment-website/assets/112687286/e2431384-827f-4025-b563-b90a8743fef4)
 
 
+-실행 화면
+
+![image](https://github.com/Eriksen1212/Training-managment-website-using-PHP-MySQL/assets/112687286/0034db9b-8bc2-4d44-9f00-86d79541a4be)
+
+
 
 
